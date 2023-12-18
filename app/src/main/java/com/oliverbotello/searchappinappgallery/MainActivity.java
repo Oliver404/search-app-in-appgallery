@@ -19,6 +19,7 @@ import android.widget.Toast;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+    //"appmarket://search?q=";
     private static final String URI_INTENT_APP_GALLERY = "appmarket://details?id=";
     private static final String APP_GALLERY_PACKAGE = "com.huawei.appmarket";
     // UI Components
